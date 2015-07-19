@@ -1,27 +1,25 @@
-Links
+# Links
 
 
-Git    
+## Git & Gitlab    
     - https://git-scm.com
-    
-Gitlab
     - https://about.gitlab.com/downloads/
     
-Capistrano
+## Capistrano
     - http://capistranorb.com/
     
-rbenv
+## rbenv
     - https://github.com/sstephenson/rbenv
     
-Jenkins
+## Jenkins
     - https://jenkins-ci.org
     
-Composer
+## Composer
     - https://getcomposer.org/
     
-Bundler
+## Bundler
     - http://bundler.io/
     
-Vagrant
+## Vagrant
     - https://www.vagrantup.com/
     - http://www.vagrantbox.es/
